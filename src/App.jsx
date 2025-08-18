@@ -13,8 +13,7 @@ export default function LandingPage() {
 
     const openWhatsApp = () => {
         window.open(
-            "https://wa.me/573136130925?text=Hola%2C%20me%20interesa%20conocer%20m%C3%A1s%20sobre%20sus%20servicios",
-            "_blank"
+            "https://w.app/nti"
         );
     };
 
@@ -273,7 +272,7 @@ export default function LandingPage() {
                         <div className="flex items-center justify-center space-x-3">
                             <Phone className="text-[#138A36]" size={24} />
                             <span className="text-gray-200">
-                                +57 313 613 0925
+                                +57 304 426 0821
                             </span>
                         </div>
                         <div className="flex items-center justify-center space-x-3">
@@ -285,7 +284,7 @@ export default function LandingPage() {
                         <div className="flex items-center justify-center space-x-3">
                             <MapPin className="text-[#138A36]" size={24} />
                             <span className="text-gray-200">
-                                Manizales, Colombia
+                                Colombia
                             </span>
                         </div>
                     </div>
